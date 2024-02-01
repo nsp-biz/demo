@@ -1,5 +1,5 @@
 (async function () {
-  const resourcePath = "https://asikoransp.github.io/sac/demo/resources/";
+  const resourcePath = "https://nsp-biz.github.io/demo/resources/";
   let currentStep = 0;
   // const mockedStep = 21;
 
