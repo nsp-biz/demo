@@ -1,0 +1,184 @@
+[
+  {
+    "width": "1.5rem",
+    "height": "1.5rem",
+    "top": "1rem",
+    "left": "7.7rem",
+    "title": "Start the tour",
+    "tooltip": "and follow the red markers"
+  },
+  {
+    "width": "9rem",
+    "height": "1rem",
+    "top": "12.3rem",
+    "left": "26.7rem",
+    "title": "Advance filtering",
+    "tooltip": "Use advanced filtering to analyze specific data you need"
+  },
+  {
+    "width": "3.3rem",
+    "height": "1.5rem",
+    "top": "13rem",
+    "left": "13.5rem",
+    "title": "Interactive charts",
+    "tooltip": "Use all Chart.js features to display data"
+  },
+  {
+    "width": "1.5rem",
+    "height": "1.5rem",
+    "top": "1.2rem",
+    "left": "26rem",
+    "title": "SAP Commerce integration",
+    "tooltip": "Interact with SAP Commerce using integrated widgets e.g. add to cart best selling products"
+  },
+  {
+    "width": "1.5rem",
+    "height": "1.5rem",
+    "top": "1.2rem",
+    "left": "27.3rem",
+    "title": "View adjustments",
+    "tooltip": "Adjust your viewing parameters to optimize the visual representation of your data"
+  },
+  {
+    "id": 5,
+    "width": "3.5rem",
+    "height": "2.2rem",
+    "top": "0.8rem",
+    "left": "56rem",
+    "title": "Drill the data",
+    "tooltip": "Aggregate data over time to have better look at specific sales periods"
+  },
+  {
+    "width": "3.5rem",
+    "height": "1.5rem",
+    "top": "3.7rem",
+    "left": "56rem",
+    "title": "Runtime aggregation",
+    "tooltip": "Accumulate and systematically review data over extended periods for an enhanced analysis of distinct sales intervals"
+  },
+  {
+    "width": "7rem",
+    "height": "2rem",
+    "top": "16.2rem",
+    "left": "7.5rem",
+    "title": "Intuitive selection tools",
+    "tooltip": "Select the most interesting data on your dashboard with simple selectors in no time"
+  },
+  {
+    "width": "8rem",
+    "height": "1.5rem",
+    "top": "23rem",
+    "left": "7.5rem",
+    "title": "Check production costs",
+    "tooltip": "View all data per product"
+  },
+  {
+    "width": "1rem",
+    "height": "21.5rem",
+    "top": "0rem",
+    "left": "61.8rem",
+    "title": "Validate your performance",
+    "tooltip": "All widgets are prepared for specific KPIs"
+  },
+  {
+    "id": 10,
+    "width": "3rem",
+    "height": "1.8rem",
+    "top": "16.1rem",
+    "left": "9.7rem",
+    "title": "Custom aggregation",
+    "tooltip": "Use custom grouping for better data understanding"
+  },
+  {
+    "id": 11,
+    "width": "3rem",
+    "height": "1.8rem",
+    "top": "16.1rem",
+    "left": "15rem",
+    "title": "Custom aggregation",
+    "tooltip": "Use custom grouping for better data understanding"
+  },
+  {
+    "id": 12,
+    "width": "1.5rem",
+    "height": "1.5rem",
+    "top": "0.1rem",
+    "left": "31.5rem",
+    "title": "Multiple stories",
+    "tooltip": "Navigate across different stories - Customer or Products"
+  },
+  {
+    "width": "9rem",
+    "height": "2rem",
+    "top": "0.9rem",
+    "left": "12rem",
+    "title": "Customer efficiency",
+    "tooltip": "Find out what needs your customers have"
+  },
+  {
+    "width": "1.5rem",
+    "height": "5rem",
+    "top": "12.8rem",
+    "left": "16.8rem",
+    "title": "Advanced search",
+    "tooltip": "Find your customers by their attributes"
+  },
+  {
+    "id": 15,
+    "width": "7rem",
+    "height": "2rem",
+    "top": "0.8rem",
+    "left": "40.3rem",
+    "title": "Many filters variants",
+    "tooltip": "Customize type of filters"
+  },
+  {
+    "width": "8rem",
+    "height": "1.5rem",
+    "top": "2.8rem",
+    "left": "47rem",
+    "title": "Many filters variants",
+    "tooltip": "Customize type of filters"
+  },
+  {
+    "width": "3.2rem",
+    "height": "2rem",
+    "top": "16.2rem",
+    "left": "56.4rem",
+    "title": "Drill the data",
+    "tooltip": "Aggregate data over time to have better look at specific sales periods"
+  },
+  {
+    "width": "1rem",
+    "height": "16.5rem",
+    "top": "0rem",
+    "left": "61.8rem",
+    "title": "Manage look of your dashboard",
+    "tooltip": "Our solution provides a variety of charts, widgets, and filters"
+  },
+  {
+    "id": 19,
+    "width": "1.5rem",
+    "height": "1.5rem",
+    "top": "0.2rem",
+    "left": "34.5rem",
+    "title": "Edit mode",
+    "tooltip": "Customize look and feel of your dashboard"
+  },
+  {
+    "width": "1.5rem",
+    "height": "1.5rem",
+    "top": "29.5rem",
+    "left": "48.7rem",
+    "title": "Edit mode",
+    "tooltip": "Edit dashboard look using variety of available options e.g position or title"
+  },
+  {
+    "width": "9rem",
+    "height": "10rem",
+    "top": "20.5rem",
+    "left": "48.4rem",
+    "title": "Edit mode",
+    "tooltip": "Edit dashboard look using variety of available options e.g position or title"
+  }
+]

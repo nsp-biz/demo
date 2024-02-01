@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>NSP Dashboards Demo</title>
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <div id="demoConatiner" class="container">
+      <img id="demoImage" class="picture position content-size" />
+      <div id="tourOverlap" class="overlap position content-size">
+        <button id="startTour" class="overlap-btn">Start Tour</button>
+      </div>
+
+      <div
+        id="nextSlideBtnWrapper"
+        class="next-slide-btn-wrapper position content-size"
+      >
+        <button id="nextSlideBtn" class="next-slide-btn"></button>
+      </div>
+
+      <div id="description" class="description">
+        <div class="title-wrapper">
+          <p id="imageTitle" class="title"></p>
+          <div class="icons">
+            <button id="backBtn" class="back-icon back-btn"></button>
+            <button id="fullScreen" class="expand-icon"></button>
+          </div>
+        </div>
+        <p id="imageTooltip" class="tooltip"></p>
+      </div>
+    </div>
+
+    <script src="./app.js"></script>
+  </body>
+</html>
