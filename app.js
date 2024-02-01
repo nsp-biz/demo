@@ -1,7 +1,6 @@
 (async function () {
   const resourcePath = "https://nsp-biz.github.io/demo/resources/";
   let currentStep = 0;
-  // const mockedStep = 21;
 
   const res = await fetch("./config.json");
   let options = await res.json();
@@ -63,7 +62,6 @@
   };
 
   const updateNextStep = () => {
-    // currentStep = mockedStep;
     updateNextStepBtn(options[currentStep]);
     image.src = options[currentStep].imagePath;
     tooltip.innerText = options[currentStep].tooltip;
@@ -74,9 +72,6 @@
 
   const nextStepHandler = (reset) => {
     if (reset) {
-      // displayOverlap(false);
-      // displayNextSlideBtn(true);
-
       displayOverlap(true);
       displayNextSlideBtn(false);
       showBackBtn(false);
